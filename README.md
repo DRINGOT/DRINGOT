@@ -13,7 +13,7 @@
 ```javascript
 const French = {
   age: 22,
-  expertise:'1 year',
+  expertise: '1 year',
   code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL'],
   tools: ['Vue', 'Node', 'Rails', 'Postgres'],
   techCommunities: ['Hacktoberfest', 'Daily.dev']
