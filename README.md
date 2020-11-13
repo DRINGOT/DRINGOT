@@ -20,7 +20,7 @@ const French = {
 }
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dringot&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dringot&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true&hide=issues" />
 </a>
 
 [![Twitter: DRingot_dev](https://img.shields.io/twitter/follow/DRingot_dev?style=social)](https://twitter.com/DRingot_dev)
