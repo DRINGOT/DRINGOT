@@ -1,4 +1,33 @@
-### Hi there 👋
+
+<h2><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" width="30"> Hi, I'm Donovan Ringot ! <img align='right' src="https://www7.lunapic.com/editor/working/160519996040888553?3655979309" width="230"><img src="https://media.giphy.com/media/24FWanKv8RNGWxJxCZ/giphy.gif" width="50"></h2>
+
+<p><em>Web Developer at <a href="https://www.grandeecolenumerique.fr/formations/yes-we-web-formation-developpement-web">Yes We Web</a>
+<img src="https://media.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="40">
+</br>Fullstack Web Developer at <a href="https://www.click2buy.com/"> Click2buy </a><img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="40">
+</em></p>
+
+<div class="g-ytsubscribe" data-channelid="UCF-iEC1MDCVTw9G-kSZWV9A" data-layout="full" data-count="default"></div>
+
+### What else about me ? <img src="https://media.giphy.com/media/efCemwT8zagJ3JZTxX/giphy.gif" width="50">
+
+```javascript
+const French = {
+  age: 22,
+  expertise:'1 year',
+  code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL'],
+  tools: ['Vue', 'Node', 'Rails', 'Postgres'],
+  techCommunities: ['Hacktoberfest', 'Daily.dev']
+}
+```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dringot&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true" />
+</a>
+
+[![Twitter: DRingot_dev](https://img.shields.io/twitter/follow/DRingot_dev?style=social)](https://twitter.com/DRingot_dev)
+[![Linkedin: dringot](https://img.shields.io/badge/-Dringot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dringot/)](https://www.linkedin.com/in/dringot/)
+[![GitHub DRINGOT](https://img.shields.io/github/followers/dringot?label=follow&style=social)](https://github.com/DRINGOT)
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" width="75" href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A">
+
 
 <!--
 **DRINGOT/DRINGOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
