@@ -1,5 +1,5 @@
 
-<h2><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" width="30"> Hi, I'm Donovan Ringot ! <img src="https://media.giphy.com/media/24FWanKv8RNGWxJxCZ/giphy.gif" width="50"></h2><img align='right' src="https://www7.lunapic.com/editor/working/160519996040888553?3655979309" width="230">
+<h2><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" width="30"> Hi, I'm Donovan Ringot ! <img src="https://media.giphy.com/media/24FWanKv8RNGWxJxCZ/giphy.gif" width="50"></h2><img align='right' src="https://github.com/DRINGOT/DRINGOT/blob/main/imageedit_17_4644176584.gif" width="230">
 
 <p><em>Web Developer at <a href="https://www.grandeecolenumerique.fr/formations/yes-we-web-formation-developpement-web">Yes We Web</a>
 <img src="https://media.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="40">
