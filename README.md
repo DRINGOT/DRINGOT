@@ -12,7 +12,7 @@
 
 ```javascript
 const French = {
-  age: 22,
+  age: 23,
   expertise: '1 year',
   code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL'],
   tools: ['Vue', 'Node', 'Rails', 'Postgres'],
