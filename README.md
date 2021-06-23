@@ -14,9 +14,9 @@
 const French = {
   age: 23,
   expertise: '1 year',
-  code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL'],
+  code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL','PHP'],
   tools: ['Vue', 'Node', 'Rails', 'Postgres'],
-  techCommunities: ['Hacktoberfest', 'Daily.dev']
+  techCommunities: ['Hacktoberfest', 'Daily.dev', 'Dokuwiki']
 }
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
