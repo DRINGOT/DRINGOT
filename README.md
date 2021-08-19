@@ -13,9 +13,9 @@
 ```javascript
 const French = {
   age: 23,
-  expertise: '1 year',
-  code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'SQL','PHP'],
-  tools: ['Vue', 'Node', 'Rails', 'Postgres'],
+  expertise: '2 years',
+  code: ['Javascript', 'JQuery', 'HTML', 'CSS', 'Ruby', 'Python', 'SQL', 'PHP'],
+  tools: ['Vue', 'Node', 'Rails', 'Postgres', 'Dokuwiki'],
   techCommunities: ['Hacktoberfest', 'Daily.dev', 'Dokuwiki']
 }
 ```
