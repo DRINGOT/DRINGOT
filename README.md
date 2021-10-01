@@ -20,6 +20,13 @@
 </p>
 <br/>
 
+## 🔥 Streak stats
+<p align="center">
+    <a href="https://github.com/DRINGOT/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DRINGOT&theme=monokai&hide_border=true"/>
+    </a>
+  </p>
+
 ## 👨‍💻 Some languages I used
 
 <p align="center">
@@ -43,14 +50,12 @@
 <details> 
   <summary>💻 GitHub Public Profile Stats</summary>
   <br/>
+  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DRINGOT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&hide=issues" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DRINGOT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRINGOT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-</a>
-<p align="center">
-  <a href="https://github.com/DRINGOT/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DRINGOT&theme=monokai&hide_border=true"/>
-  </a>
-</p>
+  </p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DRINGOT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRINGOT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  </p>
 </details>
 
 <details>
