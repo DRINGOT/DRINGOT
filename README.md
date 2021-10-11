@@ -74,7 +74,3 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DRINGOT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
-
-<p align="center">
-  <a href="https://www.click2buy.com/"> <img src="https://www.click2buy.com/wp-content/uploads/2020/06/Logo-Click2buy.png" width="90"></a></h2>
-</p>
