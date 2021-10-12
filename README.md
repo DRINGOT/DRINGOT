@@ -58,7 +58,7 @@
   </p>-->
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="DRINGOT's Github Stats" src="https://github.com/DRINGOT/github-stats/blob/master/generated/languages.svg" height="192px"/>
+      <img alt="DRINGOT's Github Stats" src="https://github.com/DRINGOT/github-stats/blob/master/generated/languages.svg" height="200px"/>
     </a>
   </p>
 </details>
