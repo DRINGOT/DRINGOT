@@ -20,12 +20,15 @@
 </p>
 <br/>
 
-## Holopin
-<p align="center">
-  <a href="https://holopin.io/@dringot">
-    <img src="https://holopin.me/dringot" alt="An image of @dringot's Holopin badges, which is a link to view their full Holopin profile">
-  </a>
-</p>
+<details> 
+  <summary>🦖 Holopin Rewards</summary>
+  <br/>
+  <p align="center">
+    <a href="https://holopin.io/@dringot">
+      <img src="https://holopin.me/dringot" alt="An image of @dringot's Holopin badges, which is a link to view their full Holopin profile">
+    </a>
+  </p>
+</details>
 
 ## 🔥 Streak stats
 <p align="center">
