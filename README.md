@@ -33,7 +33,7 @@
 ## 🔥 Streak stats
 <p align="center">
     <a href="https://github.com/DRINGOT/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DRINGOT&theme=monokai&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true"/>
     </a>
   </p>
 
