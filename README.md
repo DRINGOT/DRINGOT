@@ -32,10 +32,11 @@
 
 ## 🔥 Streak stats
 <p align="center">
-    <a href="https://streak-stats.demolab.com/demo/preview.php?user=dringot&theme=monokai&hide_border=true&short_numbers=true">
-        <img title="🔥 Get streak stats for your profile" 
-             alt="DRINGOT's streak" 
-             src="https://streak-stats.demolab.com/demo/preview.php?user=dringot&theme=monokai&hide_border=true&short_numbers=true"/>
+    <p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" 
+             alt="GitHub Streak" 
+             title="Voir les statistiques de streak sur GitHub" />
     </a>
 </p>
 
