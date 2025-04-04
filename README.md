@@ -35,7 +35,7 @@
     <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" 
-             alt="GitHub Streak" 
+             alt="DRINGOT GitHub Streak" 
              title="Voir les statistiques de streak sur GitHub" />
     </a>
 </p>
