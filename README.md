@@ -32,10 +32,11 @@
 
 ## 🔥 Streak stats
 <p align="center">
-    <!-- <a href="https://github.com/DRINGOT/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true"/>
-    </a>-->
-    [![GitHub Streak](https://streak-stats.demolab.com?user=dringot&theme=monokai&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img title="🔥 Get streak stats for your profile" 
+             alt="DRINGOT's streak" 
+             src="https://streak-stats.demolab.com?user=dringot&theme=monokai&hide_border=true&short_numbers=true"/>
+    </a>
 </p>
 
 ## 👨‍💻 Some languages I used
