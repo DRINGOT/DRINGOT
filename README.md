@@ -36,7 +36,7 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DRINGOT's streak" src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true"/>
     </a>-->
     <a href="https://git.io/streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=dringot&theme=monokai&hide_border=true&short_numbers=true" alt="GitHub Streak" />
     </a>
   </p>
 
