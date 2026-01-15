@@ -48,15 +48,16 @@
         </a>
       </p>
     </td>
-    <td valign="top" width="45%">
-      <h2 align="center">📊 GitHub Stats</h2>
+    <td valign="top" width="50%">
+      <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues" width="100%" />
+          <img alt="DRINGOT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&hide=issues" width="100%"/>
         </a>
-        <br/>
+      </p>
+      <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRINGOT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+           <img alt="DRINGOT's Github Stats" src="https://github.com/DRINGOT/github-stats/blob/master/generated/languages.svg" width="100%"/>
         </a>
       </p>
     </td>
@@ -106,19 +107,21 @@
 
 <br/>
 
-## 🔥 Activity & Streak
+## 🔥 Streak stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-  </a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" 
+             alt="DRINGOT's GitHub Streak" 
+             title="Voir les statistiques de streak sur GitHub" />
+    </a>
 </p>
 
 <details>
-  <summary>🏆 Achievements</summary>
+  <summary>🏆 Wall of fame & Rewards</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=DRINGOT&theme=tokyonight&no-frame=true" />
+      <img alt="DRINGOT's Trophy Graph" src="https://github-profile-trophy.vercel.app/?username=DRINGOT&theme=onedark&no-frame=true" />
     </a>
   </p>
   <p align="center">
@@ -128,8 +131,8 @@
   </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" />
-  </a>
-</p>
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DRINGOT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
