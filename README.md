@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DRINGOT/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=27y.%20Full-stack%20web%20developer;DevOps%20Enthusiast;5%2B%20years%20of%20coding%20experience;Always%20automating%20things&font=Fira%20Code&center=true&width=500&height=45&color=38B2AC&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=28y.%20Full-stack%20web%20developer;DevOps%20Enthusiast;5%2B%20years%20of%20coding%20experience;Always%20automating%20things&font=Fira%20Code&center=true&width=500&height=45&color=38B2AC&vCenter=true&size=22">
   </a>
 </p>
 
