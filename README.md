@@ -3,162 +3,133 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DRINGOT - https://github.com/DRINGOT/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DRINGOT/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=27y.%20Full-stack%20web%20developer;DevOps%20btw;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22"></a>
+  <a href="https://github.com/DRINGOT/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=27y.%20Full-stack%20web%20developer;DevOps%20Enthusiast;5%2B%20years%20of%20coding%20experience;Always%20automating%20things&font=Fira%20Code&center=true&width=500&height=45&color=38B2AC&vCenter=true&size=22">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCF-iEC1MDCVTw9G-kSZWV9A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCF-iEC1MDCVTw9G-kSZWV9A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube subscribers" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCF-iEC1MDCVTw9G-kSZWV9A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a> 
   <a href="https://github.com/DRINGOT?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DRINGOT"/></a>
+    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=F8D866&labelColor=2a2f45&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DRINGOT"/>
+  </a>
   <a href="https://github.com/DRINGOT?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DRINGOT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>    
+    <img alt="followers" src="https://custom-icon-badges.herokuapp.com/github/followers/DRINGOT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>    
 </p>
+
 <br/>
 
-<details> 
-  <summary>🦖 Holopin Rewards</summary>
-  <br/>
-  <p align="center">
-    <a href="https://holopin.io/@dringot">
-      <img src="https://holopin.me/dringot" alt="An image of @dringot's Holopin badges, which is a link to view their full Holopin profile">
-    </a>
-  </p>
-</details>
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h2>👋 About Me</h2>
+      <p>
+        Hi, I'm <strong>Donovan</strong>! A passionate Full-stack Developer & DevOps enthusiast based in France 🇫🇷. I love building scalable infrastructure and efficient web applications.
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Kubernetes & Automation</strong></li>
+        <li>⚡ Fun fact: <strong>If I have to do it twice, I automate it.</strong></li>
+      </ul>
+      <br/>
+      <h3>📫 Connect with me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/donovan-ringot/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="mailto:ton-email@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="45%">
+      <h2 align="center">📊 GitHub Stats</h2>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues" width="100%" />
+        </a>
+        <br/>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRINGOT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🔥 Streak stats
-<p align="center">
-    <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" 
-             alt="DRINGOT's GitHub Streak" 
-             title="Voir les statistiques de streak sur GitHub" />
-    </a>
+<br/>
+
+## 🛠 Tech Stack & Tools
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-## 👨‍💻 Some Tech Stack & Tools I Work With
-
-<p align="center">
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Abash">
-        <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Acss">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Ahtml">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Ajavascript">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Amarkdown">
-        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Anodejs">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aphp">
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Apython">
-        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aruby">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Asass">
-        <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Asql">
-        <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Asvg">
-        <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Avue">
-        <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Arails">
-        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Atailwind">
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Adocker">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Akubernetes">
-        <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Anginx">
-        <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aterraform">
-        <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aansible">
-        <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Apostgresql">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aredis">
-        <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Agcs">
-        <img alt="Google Cloud Storage" src="https://img.shields.io/badge/GCS-4285F4.svg?logo=google-cloud&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Agithub-actions">
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aargocd">
-        <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?logo=argo&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Aprometheus">
-        <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ADRINGOT+language%3Agrafana">
-        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white">
-    </a>
+### 💻 Backend & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
-## 📊 Github stats
+### 📊 Database & Observability
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Public Profile Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DRINGOT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&hide=issues" height="192px"/></a>
-  </p>
-  <!--<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DRINGOT's Top Languages in Public Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRINGOT&custom_title=Top%20Languages%20in%20Public %20Repositories&langs_count=10&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  </p>-->
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="DRINGOT's Github Stats" src="https://github.com/DRINGOT/github-stats/blob/master/generated/languages.svg" height="200px"/>
-    </a>
-  </p>
-</details>
+<br/>
+
+## 🔥 Activity & Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <details>
-  <summary>🏆 Wall of fame</summary>
+  <summary>🏆 Achievements</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="DRINGOT's Trophy Graph" src="https://github-profile-trophy.vercel.app/?username=DRINGOT&theme=onedark&no-frame=true" />
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=DRINGOT&theme=tokyonight&no-frame=true" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://holopin.io/@dringot">
+      <img src="https://holopin.me/dringot" alt="Holopin badges">
     </a>
   </p>
 </details>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DRINGOT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" />
+  </a>
+</p>
