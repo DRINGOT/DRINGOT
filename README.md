@@ -111,8 +111,7 @@
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" 
-             alt="DRINGOT's GitHub Streak" 
-             title="Voir les statistiques de streak sur GitHub" />
+             alt="DRINGOT's GitHub Streak" />
     </a>
 </p>
 
@@ -134,5 +133,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DRINGOT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DRINGOT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="DRINGOT's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DRINGOT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
 </details>
