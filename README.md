@@ -4,17 +4,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DRINGOT/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=28y.%20Full-stack%20web%20developer;DevOps%20Enthusiast;5%2B%20years%20of%20coding%20experience;Always%20automating%20things&font=Fira%20Code&center=true&width=500&height=45&color=38B2AC&vCenter=true&size=22">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A?sub_confirmation=1">
     <img alt="youtube subscribers" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCF-iEC1MDCVTw9G-kSZWV9A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a> 
+  <a href="https://www.youtube.com/channel/UCF-iEC1MDCVTw9G-kSZWV9A">
+    <img alt="youtube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCF-iEC1MDCVTw9G-kSZWV9A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a> 
   <a href="https://github.com/DRINGOT?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=F8D866&labelColor=2a2f45&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DRINGOT"/>
+    <img alt="View Stars" src="https://img.shields.io/badge/Stars-View_Repos-55960c?style=for-the-badge&logo=star&logoColor=white"/>
   </a>
   <a href="https://github.com/DRINGOT?tab=followers">
     <img alt="followers" src="https://custom-icon-badges.herokuapp.com/github/followers/DRINGOT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
