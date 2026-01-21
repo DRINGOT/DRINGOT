@@ -116,7 +116,7 @@
 
 ## 🔥 Streak stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DRINGOT&theme=monokai&hide_border=true&short_numbers=true" alt="DRINGOT's GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DRINGOT&theme=monokai&hide_border=true" alt="DRINGOT's GitHub Streak" /></a>
 </p>
 
 <details>
