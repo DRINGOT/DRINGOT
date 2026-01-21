@@ -25,10 +25,10 @@
 </p>
 
 <br/>
-    <h3>👀 Profile Views</h3>
-    <p>
-      <img src="https://count.getloli.com/@DRINGOT?name=DRINGOT&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="DRINGOT's Profile Views" />
-    </p>
+    <h3 align="center">👀 Profile Views</h3>
+<p align="center">
+  <img src="https://count.getloli.com/@DRINGOT?name=DRINGOT&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="DRINGOT's Profile Views" />
+</p>
 
 <table>
   <tr>
