@@ -59,7 +59,7 @@
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="DRINGOT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&hide=issues" width="100%"/>
+          <img alt="DRINGOT's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DRINGOT&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&hide=issues" width="100%"/>
         </a>
       </p>
       <p align="center">
