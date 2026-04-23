@@ -58,7 +58,7 @@
     <td valign="top" width="50%">
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DRINGOT&theme=monokai" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRINGOT&theme=monokai" />
       </p>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
