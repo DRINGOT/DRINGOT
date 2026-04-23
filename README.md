@@ -61,6 +61,9 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRINGOT&theme=monokai" />
       </p>
       <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DRINGOT&theme=monokai&utcOffset=1" />
+      </p>
+      <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
            <img alt="DRINGOT's Github Stats" src="https://github.com/DRINGOT/github-stats/blob/master/generated/languages.svg" width="100%"/>
         </a>
